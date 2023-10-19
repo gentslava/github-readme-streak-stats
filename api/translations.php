@@ -235,6 +235,15 @@ return [
         "Excluding {days}" => "{days}を除く",
         "comma_separator" => "・",
     ],
+    "jv" => [
+        "Total Contributions" => "Total Kontribusi",
+        "Current Streak" => "Tumindak Saiki",
+        "Longest Streak" => "Tumindak Paling Dawa",
+        "Week Streak" => "Tumindak Saben Minggu",
+        "Longest Week Streak" => "Tumindak Saben Minggu Paling Dawa",
+        "Present" => "Saiki",
+        "Excluding {days}" => "Ora kelebu {days}",
+    ],
     "kn" => [
         "Total Contributions" => "ಒಟ್ಟು ಕೊಡುಗೆ",
         "Current Streak" => "ಪ್ರಸ್ತುತ ಸ್ಟ್ರೀಕ್",
@@ -251,7 +260,7 @@ return [
         "Week Streak" => "주간 기여 수",
         "Longest Week Streak" => "최대 주간 기여 수",
         "Present" => "현재",
-        "Excluding {days}" => "제외된 날 {days}",
+        "Excluding {days}" => "{days} 제외된",
     ],
     "mr" => [
         "Total Contributions" => "एकूण योगदान",
@@ -260,6 +269,7 @@ return [
         "Week Streak" => "साप्ताहिक सातत्यता",
         "Longest Week Streak" => "दीर्घकालीन साप्ताहिक सातत्यता",
         "Present" => "आज पर्यंत",
+        "Excluding {days}" => "वगळून {days}",
     ],
     "ms" => [
         "Total Contributions" => "Jumlah Sumbangan",
